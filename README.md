@@ -13,3 +13,5 @@ Installation/Run the application
             eg: localhost/grba
 5. The Directory choosable page displayed,you have to click the folder and it will direct towards the application.
 That's it. Thank you
+
+click to run a website: https://bhavadharanithangaraj.github.io/guest-room-booking-application/
